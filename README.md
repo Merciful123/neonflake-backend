@@ -1,4 +1,4 @@
-Built using express js ans mongoDB
+Built using express js and mongoDB
 
 update the following env variables respectively to run the app.
 
